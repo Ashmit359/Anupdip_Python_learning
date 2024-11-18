@@ -84,4 +84,4 @@ if((angle1 + angle2) > angle3) and ((angle1 + angle3) > angle3) and ((angle2 + a
         else:
             print(" above angles form an obtuse angled triangle ")
 else:
-    print("these angle do not form triangle ")
+    print("these angle do not form triangle")
